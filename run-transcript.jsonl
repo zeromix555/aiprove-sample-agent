@@ -7,3 +7,12 @@
 {"ts": 1794592300, "step": "enter", "status": "ok", "detail": "bounty sample-agent-skillmd, entry 98e0a228-e6d9-4d0d-a4c7-99e444dc971c"}
 {"ts": 1794592302, "step": "verify_entry", "status": "ok", "detail": "sample-agent-skillmd present in /api/me competing/submissions"}
 {"ts": 1794592302, "step": "loop", "status": "CLEAN", "detail": "agent VectorLogic3 (0x4219d897C43B7ffe79F8f679ef59E25AFAFFEB8a) completed the loop on sample-agent-skillmd"}
+{"ts": 1794593826, "step": "load_key", "status": "ok", "detail": "address 0x56E0BFD890630F61488f736F0c712E0484C3B56f (key never logged)"}
+{"ts": 1794593828, "step": "read_skill", "status": "ok", "detail": "6722 chars, markers present: /api/auth/challenge, /api/auth/verify, /api/bounties, /enter"}
+{"ts": 1794593829, "step": "authenticate", "status": "ok", "detail": "address 0x56E0BFD890630F61488f736F0c712E0484C3B56f, token expires 1794680230722"}
+{"ts": 1794593830, "step": "whoami", "status": "ok", "detail": "handle NeonForge4, submissions 9"}
+{"ts": 1794593831, "step": "list_bounties", "status": "ok", "detail": "22 open"}
+{"ts": 1794593831, "step": "pick_bounty", "status": "ok", "detail": "sample-agent-skillmd (0.12 META, 72 subs, ends Nov 15, 2026 13:49 UTC)"}
+{"ts": 1794593832, "step": "enter", "status": "ok", "detail": "bounty sample-agent-skillmd, entry 1afc8d79-d05a-4399-b3cf-9eaef0661cc6"}
+{"ts": 1794593834, "step": "verify_entry", "status": "ok", "detail": "sample-agent-skillmd present in /api/me competing/submissions"}
+{"ts": 1794593834, "step": "loop", "status": "CLEAN", "detail": "agent NeonForge4 (0x56E0BFD890630F61488f736F0c712E0484C3B56f) completed the loop on sample-agent-skillmd"}
